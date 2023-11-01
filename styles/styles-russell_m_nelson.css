@@ -1,0 +1,54 @@
+body {
+   background-color: rgb(216, 134, 197);
+}
+header h1 {
+   color: white;
+   margin: 30px;
+   text-align: center;
+   font-size: 350%;
+}
+header h1:hover {
+   color: black;
+}
+
+header p, h3 {
+   color: white;
+   text-align: center;
+ }
+
+ ol {
+   display: block;
+   margin-left: 35%;
+   margin-bottom: 20px;
+ }
+
+ ol li {
+   margin-bottom: 10px;
+ }
+
+#russell {
+   width: 15%;
+   display: block;
+   margin: 0 auto;
+ }
+
+main p {
+   color: white;
+   font-size: 3em;
+   
+ }
+
+ footer {
+   text-align: center;
+   font-size: 1.2em;
+ }
+
+ h1, header p, h3, main p, footer {
+   margin-left: 35%;
+   margin-right: 35%;
+   text-align: center;
+ }
+    
+
+ 
+  
